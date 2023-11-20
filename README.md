@@ -1,5 +1,5 @@
 # ALTIUM-PCB-DESIGN-PROJECT
-Designing a Power Regulator &amp; Shield Board for Arduino Uno
+## Designing a Power Regulator &amp; Shield Board for Arduino Uno
 I'm thrilled to announce the successful completion of the Altium Education guided project, where I dived into the fascinating world of PCB design. In this project, I meticulously crafted a Power Regulator Shield for the Arduino Uno, orchestrating a symphony of LEDs and optimizing power distribution.
 
 The board, affectionately termed a "shield," elegantly perches on the standard Arduino Uno, establishing connections through standard pin headers. This innovative design not only illuminates a bank of LEDs but also assumes control over key power functions on the Arduino Uno.
