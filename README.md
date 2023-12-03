@@ -12,7 +12,7 @@ Through the meticulous application of engineering tasks, I've navigated the enti
 
 ## 2D View of Design
 
-<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/2D%202.JPG" width="720" height="600"/>
+<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/2D.JPG" width="720" height="600"/>
 
 ## Layer Stackup
 
@@ -24,4 +24,9 @@ Through the meticulous application of engineering tasks, I've navigated the enti
 
 ## 3D View of Design
 
-<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/3D%203.JPG" width="720" height="600"/>
+<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/3D%201.JPG" width="720" height="600"/>
+
+<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/3D5.JPG" width="720" height="600"/>
+
+<p align="center"> <img src="https://github.com/SujeewBandara/ALTIUM-DESIGN-PCB-PROJECT/blob/main/3D2.JPG" width="720" height="600"/>
+
